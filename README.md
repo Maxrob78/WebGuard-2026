@@ -47,7 +47,7 @@ cd ShieldPass
 ```bash
 pip install -r requirements.txt
 ```
-*(Si le fichier `requirements.txt` n'est pas présent, exécutez : `pip install customtkinter cryptography pyotp pyperclip requests`)*
+exécutez : `pip install customtkinter cryptography pyotp pyperclip requests`
 
 ### 4. Lancer l'application
 ```bash

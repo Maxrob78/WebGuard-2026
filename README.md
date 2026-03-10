@@ -50,4 +50,4 @@ pip install customtkinter cryptography pyotp pyperclip requests
 
 ### 4. Lancer l'application
 ```bash
-python main.py
+python gestionaire_de_mot_de_passe.py
